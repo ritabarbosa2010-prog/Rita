@@ -1,0 +1,9 @@
+echo "# Rita" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/ritabarbosa2010-prog/Rita.git
+git remote add origin https://github.com/ritabarbosa2010-prog/Rita.git
+ git branch -M main 
+git push -u origin main
